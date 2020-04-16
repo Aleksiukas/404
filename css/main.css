@@ -1,0 +1,20 @@
+body {
+        text-align: center;
+}
+    main {
+        margin-top: 200px;
+        margin-left: 100px;
+    }
+        h1 {
+            font-size: 200px;
+            color: #FC7406;
+            font-weight: normal;
+            
+        }
+        .vienas {
+            font-size: 40px;
+        }
+        .du {
+            font-size: 10px;
+            padding-top: 20px;
+        }
